@@ -1,0 +1,17 @@
+img.banner{
+    width: 100%;
+}
+body{
+    background-color: #737373;
+    margin:0;
+}
+img.circle{
+    border-radius: 50%;
+    width: 20%;
+    border: 25px solid #444444;
+    margin: 50px;
+
+}
+div{
+    text-align: center;
+}

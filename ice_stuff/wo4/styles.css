@@ -1,0 +1,23 @@
+div.everything{
+    width: 450px;
+    text-align: center;
+    margin: 0 auto;
+}
+html{
+    background-color: #FCA6C9;
+}
+h1{
+    color: white;
+}
+h1:hover{
+    color: black;
+}
+main{
+    color: white;
+}
+ol{
+    color: black;
+}
+image{
+    size: 10%;
+}
