@@ -1,0 +1,16 @@
+body{
+    background-color: black;
+}
+.bottom{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    text-align: center;
+    font-size: 1.5em;
+    height: 80px;
+}
+.bottom > div{
+    height: 100%;
+    display: grid;
+    grid-template-rows: 22px 22px;
+    align-content: center;
+}
